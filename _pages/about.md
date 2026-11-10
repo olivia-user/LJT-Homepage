@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group. My research focuses on natural language processing and machine learning.
+
 ## Personal Details
 
 - **Name:** Junteng Liu
